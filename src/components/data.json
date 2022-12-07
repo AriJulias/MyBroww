@@ -1,0 +1,42 @@
+[
+  {
+    "jenis": "Burn Cheese Cake",
+    "nama": "Nuttela & Strowberry Choco",
+    "deskripsi": "Brownis dengan topping Strowberry yang sangat enak",
+    "produksi": "MyBrow",
+    "harga": 50000,
+    "image": "https://i.pinimg.com/564x/0f/7c/fd/0f7cfd6263186f1964142935a3d76853.jpg"
+  },
+  {
+    "jenis": "Burn Cheese Cake",
+    "nama": "Original",
+    "deskripsi": "Brownis dengan topping Strowberry yang sangat enak",
+    "produksi": "MyBrow",
+    "harga": 20000,
+    "image": "https://i.pinimg.com/564x/02/ee/aa/02eeaa6ce06f0102c369cb67efc62035.jpg"
+  },
+  {
+    "jenis": "Couple Size",
+    "nama": "Cheese",
+    "deskripsi": "Brownis dengan topping Strowberry yang sangat enak",
+    "produksi": "MyBrow",
+    "harga": 10000,
+    "image": "https://i.pinimg.com/564x/f7/0a/0e/f70a0e6d008b72c67afc9df606e09a64.jpg"
+  },
+  {
+    "jenis": "Couple Size",
+    "nama": "Chochochips",
+    "deskripsi": "Brownis dengan topping Strowberry yang sangat enak",
+    "produksi": "MyBrow",
+    "harga": 10000,
+    "image": "https://i.pinimg.com/564x/c0/3a/ec/c03aecce2b497011bd3a8e85b2970d2f.jpg"
+  },
+  {
+    "jenis": "Couple Size",
+    "nama": "Brownis Mix Topping",
+    "deskripsi": "Brownis dengan topping Strowberry yang sangat enak",
+    "produksi": "MyBrow",
+    "harga": 10000,
+    "image": "https://i.pinimg.com/564x/19/a6/19/19a61949107953d53a4ca753f9336dd3.jpg"
+  }
+]
